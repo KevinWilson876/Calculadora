@@ -19,7 +19,7 @@ namespace Calculadora
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Bem-vindo ao meu aplicativo!");
         }
 
         private void btnSomar_Click(object sender, EventArgs e)
